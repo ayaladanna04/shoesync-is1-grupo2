@@ -31,10 +31,6 @@ ShoeSync controla el stock por modelo, talla y color en cada sucursal, registra 
 |---|---|
 | [`documento/`](documento/) | PDF final del SRS, código LaTeX de Overleaf y versiones anteriores (CONOPS v1.0, borrador v2.0) |
 | [`evidencias/entrevistas/`](evidencias/entrevistas/) | Guía de entrevista, actas firmadas y grabaciones (con permiso) |
-| [`evidencias/observacion/`](evidencias/observacion/) | Notas y fotos de la observación del trabajo en bodega y tienda |
-| [`evidencias/analisis-documental/`](evidencias/analisis-documental/) | Muestra anonimizada del registro de inventario actual y notas del análisis |
-| [`evidencias/cuestionario/`](evidencias/cuestionario/) | Formulario, respuestas y resumen de resultados |
-| [`evidencias/revision-requerimientos/`](evidencias/revision-requerimientos/) | Hallazgos de la revisión entre pares y con la clienta, y cómo se corrigieron |
 | [`evidencias/validacion/`](evidencias/validacion/) | Acta de la sesión de validación del prototipo, acta de conformidad firmada y comunicaciones |
 | [`prototipo/`](prototipo/) | Enlace al prototipo, capturas P-01 a P-15, diagrama de flujo y prompt usado en Figma Make |
 | [`gestion/`](gestion/) | Product backlog, cronograma y mapa de stakeholders |
