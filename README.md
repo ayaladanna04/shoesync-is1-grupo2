@@ -45,9 +45,8 @@ ShoeSync controla el stock por modelo, talla y color en cada sucursal, registra 
 |---|---|---|---|
 | Entrevista estructurada | Martha Villacís | 2026-10-18 | [entrevistas/](evidencias/entrevistas/) |
 | Entrevista de seguimiento | Martha Villacís | 2026-10-18 | [entrevistas/](evidencias/entrevistas/) |
-| Análisis documental | Área administrativa | AAAA-MM-DD | [analisis-documental/](evidencias/analisis-documental/) |
 | Prototipado | Martha Villacís y un bodeguero | 2026-11-09 | [prototipo/](prototipo/), [validacion/](evidencias/validacion/) |
-| Revisión de requerimientos | Equipo y clienta | AAAA-MM-DD | [revision-requerimientos/](evidencias/revision-requerimientos/) |
+
 
 ## Metodología
 
